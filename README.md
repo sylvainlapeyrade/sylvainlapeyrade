@@ -1,6 +1,6 @@
 AI Engineer, Data Scientist, Research in Game AI, Instructor
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sylvain.vercel.app/api?username=lapeyrade&show_icons=true&locale=en&theme=theme=transparent" alt="lapeyrade" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=lapeyrade&show_icons=true&locale=en&theme=transparent" alt="lapeyrade" /></p>
 
 ## 🧠 Main Programming Languages
 
@@ -41,6 +41,7 @@ AI Engineer, Data Scientist, Research in Game AI, Instructor
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
+
 
 
 

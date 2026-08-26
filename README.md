@@ -1,6 +1,6 @@
 AI Engineer, Data Scientist, Research in Game AI, Instructor
 
-<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=lapeyrade&show_icons=true&locale=en&theme=transparent" alt="lapeyrade" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=lapeyrade&show_icons=true&locale=en&theme=transparent&refresh=20260826" alt="lapeyrade" /></p>
 
 ## 🧠 Main Programming Languages
 
